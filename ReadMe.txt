@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 zero eidit
+=======
+ZERO EDITS
+>>>>>>> simple-changes
 First Edit
 Second Edit
 Third Edit
